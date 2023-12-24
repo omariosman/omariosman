@@ -13,18 +13,17 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/omariosman"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>&nbsp;
+  <a target="_blank" href="https://github.com/omariosman"><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /></a>&nbsp;
+  <a target="_blank" href="https://github.com/omariosman"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /></a>&nbsp;
+  <a target="_blank" href="https://github.com/omariosman"><img src="https://img.shields.io/badge/solidity-lightgrey" /></a>&nbsp;
+  <a target="_blank" href="https://github.com/omariosman"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>&nbsp;
 </p>
 
-- C++
-- JavaScript
-- Typescript
-- Solidity
-- Python
-
 ## Frontend
-
-- React.js
-- Angular
+<p align="center">
+  <a target="_blank" href="https://github.com/omariosman"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>&nbsp;
+</p>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Backend
 
