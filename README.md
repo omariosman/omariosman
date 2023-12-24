@@ -5,10 +5,11 @@
 😎 I'm passionate about fullstack blockchains development and system design.
 
 📧 Connect with me:
+
 <a target="_blank" href="mailto:omarosman23@aucegypt.edu">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="[https://www.linkedin.com/in/aryclenio-barros-060322135/](https://www.linkedin.com/in/omariosman/)">
+<a target="_blank" href="[https://www.linkedin.com/in/omariosman/](https://www.linkedin.com/in/omariosman/)">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
