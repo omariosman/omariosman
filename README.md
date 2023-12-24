@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Osman! 👋🏼💻
 
-🎓 I'm a Computer Engineer graduate from the American University in Cairo.
+🎓 A Computer Engineer graduate from the American University in Cairo.
 
 😎 I'm passionate about fullstack blockchains development and system design.
 
