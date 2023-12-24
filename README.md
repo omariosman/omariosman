@@ -23,6 +23,7 @@
 <p align="center">
   <a target="_blank" href="https://github.com/omariosman"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>&nbsp;
 </p>
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Backend
