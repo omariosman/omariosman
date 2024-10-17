@@ -61,6 +61,7 @@
 - Remix
 - Hardhat
 - Truffle
+- Bitcoin scripting
 
 ## Web3 Security
 
