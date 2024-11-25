@@ -62,6 +62,7 @@
 - Hardhat
 - Truffle
 - Bitcoin scripting
+- Interoperability
 
 ## Web3 Security
 
