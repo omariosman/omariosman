@@ -2,7 +2,7 @@
 
 🎓 A Computer Engineer graduate from the American University in Cairo.
 
-😎 I'm passionate about fullstack blockchains development, security, system design, and education.
+😎 I'm passionate about blockchains development, security, system design, content creation, and education.
 
 📧 Connect with me:
 <p>
