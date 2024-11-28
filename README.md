@@ -68,6 +68,7 @@
 
 - Slither
 - Echidna
+- Aderyn
 
 ## GitHub Stats
 
