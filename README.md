@@ -60,7 +60,7 @@
 - Crypto Wallets
 - Remix
 - Hardhat
-- Truffle
+- Foundry
 - Bitcoin scripting
 - Interoperability
 
