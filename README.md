@@ -70,8 +70,6 @@
 - Echidna
 - Aderyn
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![Omar Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omariosman&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-![Profile Views](https://komarev.com/ghpvc/?username=omariosman)
