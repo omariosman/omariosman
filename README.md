@@ -64,9 +64,10 @@
 
 ## Web3 Security
 
-- Slither
-- Echidna
-- Aderyn
+- Static Analysis (Slither, Aderyn)
+- Fuzzing (Foundry, Echidna)
+- Formal Verification and Symbolic Execution
+- Manual Code Review
 
 ## GitHub Stats 📊
 
