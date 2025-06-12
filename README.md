@@ -4,6 +4,8 @@
 
 😎 I'm passionate about blockchains development, security, system design, content creation, and education.
 
+🎥 I'm also a content creator who simplifies Web3 concepts in Arabic on Social Media.
+
 📧 Connect with me:
 <p>
 <a target="_blank" href="mailto:omarosman23@aucegypt.edu">
@@ -11,6 +13,9 @@
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/omariosman/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a target="_blank" href="https://www.youtube.com/@%D8%A8%D9%84%D9%88%D9%83%D8%AA%D8%B4%D9%8A%D9%86%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A">
+  <img align="left" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
 <br><br>
