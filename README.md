@@ -72,3 +72,11 @@
 ## GitHub Stats 📊
 
 ![Omar Osman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omariosman&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+### Streak Stats 🔥
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omariosman&theme=default)
+
+### Contribution Graph 📈
+
+![Omar Osman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omariosman&theme=default)
